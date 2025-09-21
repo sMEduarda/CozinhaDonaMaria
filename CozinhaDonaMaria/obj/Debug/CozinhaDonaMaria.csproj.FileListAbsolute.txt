@@ -1,0 +1,14 @@
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.csproj.AssemblyReference.cache
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.Forms.FrmExtra.resources
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.FrmMenu.resources
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.Properties.Resources.resources
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.csproj.GenerateResource.cache
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.csproj.CoreCompileInputs.cache
+C:\Users\medua\source\repos\CozinhaDonaMaria\bin\Debug\CozinhaDonaMaria.exe.config
+C:\Users\medua\source\repos\CozinhaDonaMaria\bin\Debug\CozinhaDonaMaria.exe
+C:\Users\medua\source\repos\CozinhaDonaMaria\bin\Debug\CozinhaDonaMaria.pdb
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.exe
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.pdb
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.exe.config
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.Forms.FrmCadastroReceita.resources
+C:\Users\medua\source\repos\CozinhaDonaMaria\obj\Debug\CozinhaDonaMaria.Forms.FrmConsultaReceita.resources
